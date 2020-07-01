@@ -1,0 +1,92 @@
+@font-face{
+    font-family: 'Montserrat', sans-serif;
+    src:url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap');
+}
+
+/* nav-bar styling */
+
+.nav-bar{
+    margin: 0;
+    position: fixed;
+    top:0;
+    height:60px;
+    width: 100%;
+    background-color: white;
+    letter-spacing: 0.2em;
+    border-bottom: 0.5px solid rgb(187, 167, 125);
+    z-index: 5;
+    
+}
+
+.nav-elements{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 30;
+    font-size: 12px;
+    text-transform: uppercase;
+    position: relative;
+    display: grid;
+    grid-auto-flow: column;
+    grid-column-gap: 20px;
+    left: 50px;
+}
+
+/* .nav-bar-brand{
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    font-weight: 500;
+    font-size: medium;
+} */
+
+.nav-bar-brand > img{
+    padding-bottom: 5px;
+    width: 200px;
+    height: 65px;
+}
+/* Social media icons styles */
+.social-media-links{
+    position: fixed;
+    right: 20px;
+}
+.social-media-links > a {
+    color:black;
+    padding:20px;
+    width: 50px;
+}
+
+/* About styles */
+.about{
+  position: relative;
+  background-color: white;
+  bottom: 0;
+  width: 100%;
+}
+
+
+.title-about{
+    font-family: 'Playfair Display SC', serif;
+    font-weight: 100;
+    font-size: large;
+    text-transform: uppercase;
+    border-bottom: 0.5px rgb(187, 167, 125);
+    border-style: solid;
+    border-top: hidden;
+    border-left: hidden;
+    border-right: hidden;
+    text-decoration: none;
+    font-size: 20px;
+    text-align: center;
+
+}
+
+.desc-about{
+    font-family: 'Playfair Display SC', serif;
+    font-weight: 100;
+    font-size: large;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: 13px;
+    text-align: center;
+
+}
+
+

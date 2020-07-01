@@ -1,0 +1,100 @@
+@font-face{
+    font-family: 'Montserrat', sans-serif;
+    font-family:'Playfair Display SC', serif;
+    src:url('https://fonts.googleapis.com/css2?family=Playfair+Display+SC&display=swap');
+    src:url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap');
+}
+
+
+
+.header {
+    margin-top: 80px;
+    margin-bottom: 10px;
+}
+
+.header > h2 {
+    font-family: 'Playfair Display SC', serif;
+    text-transform: uppercase;
+    font-weight: lighter;
+    font-size: 20px;
+    text-decoration: none;
+    text-align: center;
+    letter-spacing: 0.1em;
+
+}
+
+.content > .post1 > .img-collage {
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.content > .post1 > .post-content > p {
+    font-family:'Playfair Display SC', serif;
+    letter-spacing: 0.1em;
+    margin: 20px;
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+
+}
+
+ .museum-link {
+    font-family:'Playfair Display SC', serif;
+    letter-spacing: 0.1em;
+    margin:0;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color: black;
+}
+
+a:hover{
+    color:rgb(187, 167, 125);
+}
+
+img {
+    width:1200px;
+    height: auto;
+}
+
+.header2 > h2 {
+    font-family: 'Playfair Display SC', serif;
+    text-transform: uppercase;
+    font-weight: lighter;
+    font-size: 20px;
+    text-decoration: none;
+    text-align: center;
+    letter-spacing: 0.1em;
+
+}
+.content2 > .post2 > .img-collage2 {
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.content2 > .post2 > .post-content2 > p {
+    font-family:'Playfair Display SC', serif;
+    letter-spacing: 0.1em;
+    margin: 20px;
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+
+}
+
+ .bar-link {
+    font-family:'Playfair Display SC', serif;
+    letter-spacing: 0.1em;
+    margin:0;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color: black;
+}
+

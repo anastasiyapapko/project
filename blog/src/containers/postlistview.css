@@ -1,0 +1,9 @@
+.all-posts-content{
+    font-family:'Playfair Display SC', serif;
+    letter-spacing: 0.1em;
+    margin: 10px;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}

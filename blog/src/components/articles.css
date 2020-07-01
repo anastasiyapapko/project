@@ -1,0 +1,13 @@
+.title-name {
+    text-align: center;
+}
+
+.title-name > h2 {
+    font-family: 'Playfair Display SC', serif;
+    text-transform: uppercase;
+    font-weight: lighter;
+    font-size: 20px;
+    text-decoration: none;
+    text-align: center;
+    letter-spacing: 0.1em;
+}

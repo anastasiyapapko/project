@@ -1,0 +1,84 @@
+@font-face{
+    font-family:'Playfair Display SC', serif;
+    src:url('https://fonts.googleapis.com/css2?family=Playfair+Display+SC&display=swap');
+    font-family: 'Montserrat', sans-serif;
+    src:url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap');
+}
+
+
+/* Carousel styles */
+
+.content{
+    margin:10px;
+}
+.images {
+    margin:70px;
+    margin-bottom: 10px;
+    padding:10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.carousel {
+    height:600px;
+    width:1400px;
+}
+.carousel-item{
+    text-align: center;
+    font-family:'Playfair Display SC', serif;
+    letter-spacing: 0.1em;
+}
+.carousel-item img {
+    width: 1200px;
+    height: auto;
+    
+}
+
+.pinterest-header > h2{
+    margin:20px;
+    font-family: 'Playfair Display SC', serif;
+    text-transform: uppercase;
+    font-weight: lighter;
+    font-size: 20px;
+    text-decoration: none;
+    text-align: center;
+    letter-spacing: 0.1em;
+}
+
+.pinterest-header > p {
+    font-family:'Playfair Display SC', serif;
+    letter-spacing: 0.1em;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+a {
+    color:black;
+}
+
+
+
+.pinterest-board {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.post-content-area{
+    margin:20px;
+}
+.article-name{
+    padding: 20px;
+    font-family: 'Playfair Display SC', serif;
+    text-transform: uppercase;
+    font-weight: lighter;
+    font-size: 20px;
+    text-decoration: none;
+    text-align: center;
+    letter-spacing: 0.1em;
+}
+
+
