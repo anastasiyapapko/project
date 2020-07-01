@@ -37,6 +37,9 @@ class Travelling extends React.Component{
                         <img src="../images/views.jpg"></img>
                     </div>
                 </div>
+                <div className="footer">
+                    <h2>More adventures are coming...</h2>
+                </div>
             </div>
         );
     }

@@ -28,9 +28,8 @@ class Article extends React.Component{
                     </div>
                 </div>
                 <div className="footer">
-                
-                    
-                 </div>
+                    <h2>More articles are coming...</h2>
+                </div>
                 
             </div>
         );
