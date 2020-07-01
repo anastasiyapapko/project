@@ -98,3 +98,51 @@ img {
     color: black;
 }
 
+.header3 > h2 {
+    font-family: 'Playfair Display SC', serif;
+    text-transform: uppercase;
+    font-weight: lighter;
+    font-size: 20px;
+    text-decoration: none;
+    text-align: center;
+    letter-spacing: 0.1em;
+
+}
+.content3 > .post3 > .img-collage3 {
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.content3 > .post3 > .post-content3 > p {
+    font-family:'Playfair Display SC', serif;
+    letter-spacing: 0.1em;
+    margin: 20px;
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+
+}
+
+.bowls-link {
+    font-family:'Playfair Display SC', serif;
+    letter-spacing: 0.1em;
+    margin:0;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color: black;
+}
+
+.footer > h2{
+    padding-bottom: 20px;
+    font-family: 'Playfair Display SC', serif;
+    text-transform: uppercase;
+    font-weight: lighter;
+    font-size: 20px;
+    text-decoration: none;
+    text-align: center;
+    letter-spacing: 0.1em;
+}

@@ -40,7 +40,25 @@ class Lifestyle extends React.Component{
                         </div>
                     </div>
                 </div>
-                <div classNme="footer">
+                <div className="header3">
+                    <h2>Summer essentials</h2>
+                </div>
+                <div className="content3">
+                    <div className="post3">
+                        <div className="img-collage3">
+                            <img src="/images/summer.jpg">
+                            </img>
+                        </div>
+                        <div className="post-content3">
+                            <p className="post-text3">
+                             Hope you enjoy these summer sunny days and I'm here to recommend you a place with the best vegan bowls in Warsaw, which is called COCO bowls, they are serving vegan and super healthy meals like fruit bowls with granola,chia pudding,different smoothies and sugar-free desserts. You can take it away and eat your healthy breakfast/lunch in the park, hurry up, it's rose blooming season, go and enjoy !
+                            <a className="bowls-link" href="https://cocobowls.pl/" >Here you can check the opening hours, menu or order some healthy products like peanut butter or granola</a> 
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div className="footer">
+                    <h2>More places are coming...</h2>
                 </div>   
             </div>
             
