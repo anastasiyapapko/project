@@ -76,9 +76,9 @@ class MainPage extends React.Component{
                         Summer is for picnics
                     </h2>
                     <div className="entry-content">
-                        <iframe src="https://www.instagram.com/p/CBzqjGtJ39X/embed" width="400" height="480" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
-                        <iframe src="https://www.instagram.com/p/CBfrUSeBmtA/embed" width="400" height="480" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
-                        <iframe src="https://www.instagram.com/p/CBdRxCEnCfO/embed" width="400" height="480" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+                        <iframe src="https://www.instagram.com/p/CCePEQcBYA8/embed" width="400" height="480" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+                        <iframe src="https://www.instagram.com/p/CCxiUSkil10/embed" width="400" height="480" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+                        <iframe src="https://www.instagram.com/p/CCqWFczi4Bd/embed" width="400" height="480" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
 
                     </div>
                     <h2 className="article-name">
